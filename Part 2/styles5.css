@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(72, 9, 230);
+	font: bold 40px Times New Roman;
+    text-align: center;
+    width: 500px;
+}
+h2 {
+    color: rgb(10, 153, 31);
+	font: normal 30px Times New Roman;
+    text-align: center;
+    width: 500px;
+}
+p {
+	text-indent: 50px;
+    width: 500px;
+    text-align: justify;
+    font: normal 16px/25px Arial;
+ }
+ .red {
+    color: rgb(10, 153, 31);
+}
+ ul {
+	width: 400px;
+    text-align: justify;
+    font: normal 16px Times New Roman;
+ }
+
+
